@@ -1,0 +1,17 @@
+.btn-padding{
+    padding: 4px 4rem;
+    border: 2px solid;
+}
+
+.text-font{
+    font-size: 20px;
+    font-weight: 600;
+}
+
+body{
+    padding: 4rem;
+}
+
+.input-fields{
+        border: 2px solid gray;
+}
